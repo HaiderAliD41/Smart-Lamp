@@ -1,0 +1,33 @@
+# Smart Lamp  
+
+A modern Smart Lamp designed to enhance your living space with customizable lighting and seamless connectivity. This project combines elegant design with smart functionality, making it both practical and stylish.  
+
+## Features  
+- **Adjustable Lighting:**  
+  Customize brightness and color tones to suit your mood or task. Perfect for reading, relaxing, or working.  
+- **Bluetooth Connectivity:**  
+  Pair the lamp with your smartphone and control it remotely via a user-friendly app.  
+- **Smart Scheduling:**  
+  Set automated lighting schedules to match your routine and save energy.  
+- **Compact Design:**  
+  A sleek, space-saving design that complements any modern interior.  
+
+## Overview  
+This Smart Lamp project demonstrates the integration of innovative hardware and software to deliver a seamless user experience. Designed for convenience and efficiency, it’s an ideal addition to any desk, bedside table, or living room.  
+
+The repository contains:  
+- Circuit schematics and PCB layouts.  
+- Firmware code for Bluetooth connectivity and control.  
+- A detailed guide for assembly and usage.  
+
+## Getting Started  
+
+### Prerequisites  
+- Microcontroller with Bluetooth support (e.g., ESP32).  
+- Required components listed in the `BOM.md` file.  
+- Smartphone app (code included in the `App` folder).  
+
+### Installation  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/yourusername/smart-lamp.git  
